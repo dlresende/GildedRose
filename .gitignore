@@ -12,3 +12,5 @@ target/
 
 # Mac OS X
 .DS_Store
+
+gc.log
